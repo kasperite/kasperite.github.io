@@ -11,10 +11,11 @@ export const siteConfig = {
     stackoverflow: "http://stackoverflow.com/users/1253504/kasperite",
   },
   aboutMe:  
-    `I have over 12 years of experience delivering government and commercial projects across Australia and New Zealand.
-    If you are looking for development support or would like to connect, feel free to reach out via email. I am based in New Zealand and open to remote opportunities.
+    `I am based in New Zealand, colloquially known as Aotearoa or The land of the long white cloud.
+    I have over 12 years of experience working in both government and private sectors across Australia and New Zealand.
+    If you are looking for development support or would like to connect, feel free to reach out via email.
     `,
-  skills: ["Ruby", "Python", "Javascript", "React", "Vue", "Node.js",  "AWS", "Docker"],
+  skills: ["Ruby", "Python", "Javascript", "React", "Vue", "AWS", "Docker"],
   projects: [
     // {
     //   name: "something",
