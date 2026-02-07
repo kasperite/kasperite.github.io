@@ -34,13 +34,13 @@ export const siteConfig = {
     },
   ],
   experience: [
-    {
-      title: "Freelancer (Remote)",
-      dateRange: "June 2023 - Present",
-      bullets: [
-        "Delivered ongoing website retainer services for a diverse portfolio of clients."
-      ],
-    },
+    // {
+    //   title: "Freelancer (Remote)",
+    //   dateRange: "June 2023 - Present",
+    //   bullets: [
+    //     "Delivered ongoing website retainer services for a diverse portfolio of clients."
+    //   ],
+    // },
     {
       company: "Marketplacer",
       title: "Senior Software Engineer (Remote)",
