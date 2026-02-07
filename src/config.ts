@@ -25,6 +25,14 @@ export const siteConfig = {
     //   skills: ["React", "Node.js", "AWS"],
     // },
   ],
+   oss: [
+    {
+      name: "Supplejack",
+      description:
+        "A suite of API, dashboard and harvester used by DigitalNZ to aggregate New Zealand digital items from multiple sources",
+      link: "https://digitalnz.github.io/supplejack/components/supplejack-api.html",
+    },
+  ],
   experience: [
     {
       title: "Freelancer (Remote)",
