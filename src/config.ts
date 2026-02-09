@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/lukasquangnguyen/",
     github: "https://github.com/kasperite",
     twitter: "",
-    stackoverflow: "http://stackoverflow.com/users/1253504/kasperite",
+    stackoverflow: "https://stackoverflow.com/users/1253504/kasperite?tab=profile",
   },
   aboutMe:  
     `I am based in New Zealand, colloquially known as Aotearoa or The land of the long white cloud.
