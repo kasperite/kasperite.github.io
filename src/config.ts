@@ -34,20 +34,20 @@ export const siteConfig = {
     },
   ],
   experience: [
-    // {
-    //   title: "Freelancer (Remote)",
-    //   dateRange: "June 2023 - Present",
-    //   bullets: [
-    //     "Delivered ongoing website retainer services for a diverse portfolio of clients."
-    //   ],
-    // },
+    {
+      title: "Freelancer (Remote)",
+      dateRange: "June 2023 - Present",
+      bullets: [
+        "Delivered ongoing website retainer services for a diverse portfolio of clients."
+      ],
+    },
     {
       company: "Marketplacer",
       title: "Senior Software Engineer (Remote)",
       dateRange: "Mar 2022 - December 2025",
       bullets: [
         "Maintained and developed new features for the Marketplacer admin dashboard, enabling sellers to manage their stores and update content efficiently.",
-        "Containerized the test environment, significantly simplifying deployments and reducing environment-related inconsistencies.",
+        "Containerized test environment using a combination of docker, systemd and ssh, significantly simplifying deployments and reducing environment-related inconsistencies.",
         "Reduced oversized API requests by 20%, improving system performance by enforcing strict page size limits.",
         "Optimized the CI/CD pipeline by significantly reducing asset compilation time and improving build throughput."
       ],
